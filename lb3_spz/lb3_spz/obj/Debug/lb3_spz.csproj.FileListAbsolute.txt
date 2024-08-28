@@ -1,0 +1,10 @@
+C:\Users\mrfun\source\repos\c#\lb3_spz\lb3_spz\obj\Debug\lb3_spz.csproj.AssemblyReference.cache
+C:\Users\mrfun\source\repos\c#\lb3_spz\lb3_spz\obj\Debug\lb3_spz.Form1.resources
+C:\Users\mrfun\source\repos\c#\lb3_spz\lb3_spz\obj\Debug\lb3_spz.Properties.Resources.resources
+C:\Users\mrfun\source\repos\c#\lb3_spz\lb3_spz\obj\Debug\lb3_spz.csproj.GenerateResource.cache
+C:\Users\mrfun\source\repos\c#\lb3_spz\lb3_spz\obj\Debug\lb3_spz.csproj.CoreCompileInputs.cache
+C:\Users\mrfun\source\repos\c#\lb3_spz\lb3_spz\bin\Debug\lb3_spz.exe.config
+C:\Users\mrfun\source\repos\c#\lb3_spz\lb3_spz\bin\Debug\lb3_spz.exe
+C:\Users\mrfun\source\repos\c#\lb3_spz\lb3_spz\bin\Debug\lb3_spz.pdb
+C:\Users\mrfun\source\repos\c#\lb3_spz\lb3_spz\obj\Debug\lb3_spz.exe
+C:\Users\mrfun\source\repos\c#\lb3_spz\lb3_spz\obj\Debug\lb3_spz.pdb

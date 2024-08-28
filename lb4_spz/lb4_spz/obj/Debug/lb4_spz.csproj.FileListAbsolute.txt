@@ -1,0 +1,7 @@
+C:\Users\mrfun\source\repos\c#\lb4_spz\lb4_spz\bin\Debug\lb4_spz.exe.config
+C:\Users\mrfun\source\repos\c#\lb4_spz\lb4_spz\bin\Debug\lb4_spz.exe
+C:\Users\mrfun\source\repos\c#\lb4_spz\lb4_spz\bin\Debug\lb4_spz.pdb
+C:\Users\mrfun\source\repos\c#\lb4_spz\lb4_spz\obj\Debug\lb4_spz.csproj.AssemblyReference.cache
+C:\Users\mrfun\source\repos\c#\lb4_spz\lb4_spz\obj\Debug\lb4_spz.csproj.CoreCompileInputs.cache
+C:\Users\mrfun\source\repos\c#\lb4_spz\lb4_spz\obj\Debug\lb4_spz.exe
+C:\Users\mrfun\source\repos\c#\lb4_spz\lb4_spz\obj\Debug\lb4_spz.pdb
